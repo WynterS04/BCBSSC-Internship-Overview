@@ -1,3 +1,0 @@
-# Blue Cross Blue Sheild of South Carolina Internship
-
-> My internship at Blue Cross Blue Shield of South Carolina (BCBSSC) was an incredible, eye-opening experience that pushed me in a different way than what I expected. The environment at BCBSSC greatly supported continous learning, and it motivated me to seek knowledge that wasn't just handed to me on a silver platter. This is why I wanted to reflect on my time here and document some of the things I learned on this page.
