@@ -193,3 +193,31 @@ If you finish early, you may add:
   - [Expect](https://jestjs.io/docs/expect#expectarrayofvalue)
 - npm
   - [npm Docs](https://docs.npmjs.com/)
+
+## Project Results
+
+
+
+## Reflections
+### Improvements (Myself)
+There are a few things I noticed before the app demo (06/25/26) that I would improve upon:
+- Implementing advanced filtering (overdue, due withing a certain time frame, etc.) 
+- Building test friendly code (new approach might be to test while I build to ensure code is built in a testable way) 
+- UX/UI (improved styling maybe through 3rd party framework like Vuetify or Bootstrap Vue) 
+- Adding animation to toast notifications & time limit
+- Unit testing (some failed, so I'd make sure when new code is added, tests are still valid and just cover more code with my tests in general)
+- Some functionality started breaking/not working when there were too many things being done at once. So I'd ensure that multiple actions can happen simultaneously (like being able to delete a project while using search or filtering by status)
+
+### Feedback (From Others)
+I've also included some feedback that I received during the app demo/ code review  
+
+- Main thing was accessibility 
+- Icons should be wrapped in buttons 
+- Alt text should be added for buttons, images, icons, etc.
+remember to use lighthouse to test accessibility 
+- Use aria-label for button elements so screen readers can still access it  
+- Use computed property when a value relies on another ref and needs to be updated when this ref changes 
+- Use hoisted functions instead of constants when necessary 
+- Work on webpage Responsiveness 
+- keeping styling guides consistent to make it readable for others (no inline styling) 
+- For now I built my own UI/UX but in the future there are 3rd party frameworks that can build different elements like tables, modals, etc. (Vuetify, Bootstrap Vue) 
