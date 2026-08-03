@@ -1,11 +1,15 @@
 # AEM GUI Project
 
- This project was developed as part of my internship. Because the source code and application are confidential, I cannot share the codebase or finished product. Instead, this documentation focuses on the project requirements, my responsibilities, the technologies I used, and the problem-solving process I followed
+ As this project was developed during my internship, the source code and application are considered confidential, and I cannot share the codebase or finished product. Instead, this documentation focuses on the project requirements, my responsibilities, the technologies I used, and the problem-solving process I followed
 
 ## Overview
-Through this project I was able to gain hands-on experience with Adobe Experience Manager(AEM), a platform used to control the structure and layout of a website. Utilizing JavaScript, CSS, and AEM I was able to add features and bug fixes to a GUI used to help create content fragments in an easier and simpler way.
+During this project, I had the opportunity to dive into Adobe Experience Manager (AEM), a platform I was unfamiliar with before. The main goal was to improve a custom graphical user interface (GUI) designed to make it easier for developers to create content fragments in AEM. While the platform itself offers built-in tools for this, I found that the process can be cumbersome and confusing, especially for new users. The custom GUI we were working on aimed to streamline this workflow, making it faster and more intuitive, ultimately saving time and boosting productivity.  
+
+My role primarily involved testing the application on AEM and using JavaScript and CSS to identify and fix bugs in the GUI. In addition to this, I proactively designed and implemented a new feature that allows users to quickly duplicate content fragments, further reducing repetitive manual work and enhancing usability. To make this happen, I had to carefully analyze current workflows, understand what users needed, and come up with a practical solution that would benefit the team in the long run.
 
 ## Notes
+Although I received a debriefing on the project before starting, I wanted to fully understand its intent and the concepts involved. To achieve this, I began by researching AEM and content fragments, and I learned how to create them in AEM using the traditional method. This experience highlighted the importance of the GUI, as I saw firsthand how time-consuming the manual process can be. To reinforce my learning, I also took notes on the topics I explored. 
+ 
 ### What are Content Fragments? 
 - Structured content without design or layout 
 - Contain text, metadata, and structured fields 

@@ -154,7 +154,7 @@ Your store should:
 - calculate summary values
 
 ### Unit Testing Requirements
-You must include at least 4 Jest tests. With a stretch goal of 80% code coverage  
+You must include at least 4 Jest tests. With a stretch goal of 80% code coverage
 
 Examples:
 - filtering logic
