@@ -195,7 +195,8 @@ If you finish early, you may add:
   - [npm Docs](https://docs.npmjs.com/)
 
 ## Project Results
-
+Here is a breif view of the project tracker and it's functionality
+<video src="/docs/assets/videos/Screen Recording 2026-07-22 094040.mp4" controls></video>
 
 
 ## Reflections
@@ -211,7 +212,6 @@ There are a few things I noticed before the app demo (06/25/26) that I would imp
 ### Feedback (From Others)
 I've also included some feedback that I received during the app demo/ code review  
 
-- Main thing was accessibility 
 - Icons should be wrapped in buttons 
 - Alt text should be added for buttons, images, icons, etc.
 remember to use lighthouse to test accessibility 
