@@ -1,2 +1,4 @@
 # Presentations
-After each project was completed, it was followed by an application demo and code walkthrough. These presentations enhanced my technical terminology and taught me how to  so I communicate effectively to counterparts, team leads, and management.
+After each project was completed, we held an application demo and a code walkthrough. I was also responsible for creating a final presentation to showcase the work I completed during my internship. These presentations improved my ability to communicate effectively with my colleagues and managers.
+
+- [Final Presentation](/docs/presentations/final-intern-presentation.md)
